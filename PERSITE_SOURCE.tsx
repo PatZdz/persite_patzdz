@@ -133,7 +133,7 @@ function FreelancerAccordionContent() {
         <li>Cloud Services</li>
       </ul>
 
-      Contact me: <a href="mailto:patzdz@gmail.com.com">jane@example.com</a><br/>
+      Contact me: <a href="mailto:pat.zdziabek@gmail.com">jane@example.com</a><br/>
       Please include your project details and requirements. I will respond promptly.
     </div>
   )
@@ -148,7 +148,7 @@ function ContractorAccordionContent () {
         <li>Want to create a custom solution?</li>
         <li>Have a technical challenge to solve?</li>
       </ul>
-      Contact me: <a href="mailto:Jane@example.com">jane@example.com</a><br />
+      Contact me: <a href="mailto:pat.zdziabek@gmail.com">jane@example.com</a><br />
       Include your project overview and timeline expectations.
     </div>
   )
@@ -159,7 +159,7 @@ function IndieHackerAccordionContent () {
     <div>
       <div className="AccordionContentText">
         Interested in building something together? Let's collaborate on innovative projects!
-        Contact me here: <a href="mailto:jane@example.com">jane@example.com</a>
+        Contact me here: <a href="mailto:pat.zdziabek@gmail.com">jane@example.com</a>
       </div>
     </div>
   )
