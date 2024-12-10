@@ -16,7 +16,7 @@ const persiteSource: PersiteSource = {
   fullName: 'Pat Zdziabek',
   slogan: 'Software Engineer & Creator',
   mainPageTitle: "Pat Zdziabek | Software Engineer & Creator",
-  mainPageDescription: "Full-stack developer, entrepreneur, and tech enthusiast.",
+  mainPageDescription: "Flutter developer, YouTuber, Indie Hacker, TikToker, Podcaster, and tech enthusiast.",
   useSimpleAnalytics: true,
   theme: {
     projectSectionFirst: false,
@@ -32,8 +32,8 @@ const persiteSource: PersiteSource = {
     }
   },
   seo: {
-    author: 'Jane Doe',
-    twitterUsername: 'janedoe',
+    author: 'Pat Zdziabek',
+    twitterUsername: 'patzdz',
     locale: 'en_US',
   },
   headerSection: {
@@ -41,11 +41,11 @@ const persiteSource: PersiteSource = {
     personalSlogan: 'Building the future, one line of code at a time!',
     typeAnimationSequence: [
       "\ developer",
-      "n innovator",
+      "\ youtuber",
       "\ creator",
       "n entrepreneur",
-      "\ builder",
-      "\ coder",
+      "n influencer",
+      "n indie hacker",
     ]
   },
   accordionSection: {
@@ -61,11 +61,11 @@ const persiteSource: PersiteSource = {
     title: 'Projects',
     items: [
       {
-        title: 'ProjectAlpha',
+        title: 'FastApp',
         status: 'in_progress',
-        badge: 'Q2 2024',
+        badge: 'Q1 2025',
         badgeColor: 'gray',
-        link: 'https://mzaremski.com/persite',
+        link: 'https://patzdz.vercel.app/fastapp',
       },
       {
         title: 'BetaApp',
