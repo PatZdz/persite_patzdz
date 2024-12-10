@@ -133,7 +133,7 @@ function FreelancerAccordionContent() {
         <li>Cloud Services</li>
       </ul>
 
-      Contact me: <a href="mailto:jane@example.com">jane@example.com</a><br/>
+      Contact me: <a href="mailto:patzdz@gmail.com.com">jane@example.com</a><br/>
       Please include your project details and requirements. I will respond promptly.
     </div>
   )
