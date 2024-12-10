@@ -13,9 +13,9 @@ import type { PersiteSource } from "./persite_source_type";
 */
 
 const persiteSource: PersiteSource = {
-  fullName: 'Jane Doe',
+  fullName: 'Pat Zdziabek',
   slogan: 'Software Engineer & Creator',
-  mainPageTitle: "Jane Doe | Software Engineer & Creator",
+  mainPageTitle: "Pat Zdziabek | Software Engineer & Creator",
   mainPageDescription: "Full-stack developer, entrepreneur, and tech enthusiast.",
   useSimpleAnalytics: true,
   theme: {
