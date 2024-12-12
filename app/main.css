@@ -60,7 +60,7 @@ body h1, h2, h3, h4, h5, h6, p, span, div, li {
 }
 
 .project_list_item:hover a {
-  transform: scale(2.05);
+  transform: scale(1.05);
   transition: transform 0.2s;
 }
 
