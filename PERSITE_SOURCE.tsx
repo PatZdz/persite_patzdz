@@ -65,7 +65,7 @@ const persiteSource: PersiteSource = {
         status: 'in_progress',
         badge: 'Q1 2025',
         badgeColor: 'gray',
-        link: 'https://patzdz.vercel.app/fastapp',
+        link: '/fastapp',
       },
       {
         title: 'Cloud Exam Quiz',
