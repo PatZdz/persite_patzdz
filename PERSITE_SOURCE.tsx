@@ -72,7 +72,7 @@ const persiteSource: PersiteSource = {
         status: 'released',
         badgeColor: 'green',
         badge: '500$/m',
-        link: '/boilerplate',
+        link: '/cloud-exam-quiz',
       },
       {
         title: 'NetBase',
